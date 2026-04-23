@@ -1,0 +1,16 @@
+{
+  "name": "rb-claude-skills",
+  "owner": {
+    "name": "RomanBednar"
+  },
+  "plugins": [
+    {
+      "name": "testing-skill",
+      "description": "IEEE 829-inspired test plan authoring and execution for OpenShift with MCP-based cluster interaction",
+      "source": "./",
+      "skills": [
+        "./skills/test-plan"
+      ]
+    }
+  ]
+}
